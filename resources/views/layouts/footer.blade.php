@@ -8,7 +8,7 @@
     Anything you want
   </div>
   <!-- Default to the left -->
-  <strong>Copyright &copy;  <a href="https://adminlte.io">AdminLTE.io</a>.</strong> All rights reserved.
+  <strong>Copyright &copy; 2022 <a href="#">AdminLTE.io</a>.</strong> All rights reserved.
 </footer>
 </div>
 <!-- ./wrapper -->
@@ -16,7 +16,7 @@
 <!-- REQUIRED SCRIPTS -->
 
 <!-- jQuery -->
-<script src="/js/app.js"></script>
+<script src="{{asset('/js/app.js')}}"></script>
 
 </body>
 
